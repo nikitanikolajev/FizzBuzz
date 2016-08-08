@@ -1,5 +1,5 @@
 # FizzBuzz
-FizzBuzz with custom dividors
+FizzBuzz with custom dividers
 
 Python version 3.5
 
